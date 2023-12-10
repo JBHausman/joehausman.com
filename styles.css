@@ -1,0 +1,11 @@
+.block {
+  padding: 33px;
+  background-color: #fff;
+  color: #fff;
+  border-bottom: 4px solid #fff;
+}
+
+p {
+    text-align: center;
+    height: 250%
+}
